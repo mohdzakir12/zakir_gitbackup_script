@@ -2,7 +2,7 @@
 #./ruby.2.4.1-setup.sh
 
 #gem install github_records_archiver
-github-records-archiver  archive xformation --token 230de768652b3630e7b14039d83cdb920723cbbc
+github-records-archiver  archive xformation --token 183001ebdffb1a0cadd43354b905040517fad146
 
 cd archive/
 cd xformation/
