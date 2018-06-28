@@ -29,3 +29,8 @@ cd rubygems-$version
 
 # chef-solo
 gem install bundler chef ruby-shadow --no-ri --no-rdoc
+
+#installing packages 
+yum install -y python-pip
+yum install -y awscli
+

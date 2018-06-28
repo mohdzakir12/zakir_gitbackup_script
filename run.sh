@@ -10,8 +10,6 @@ cd awsscripter/
 cd awsscripter/
 tar -cvf git-archive-final.tar archive
 
-yum install -y python-pip
-yum install -y awscli
 
 #setting time-zone
 timedatectl set-timezone Asia/Kolkata
